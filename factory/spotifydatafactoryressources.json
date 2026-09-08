@@ -1,0 +1,15 @@
+{
+	"name": "spotifydatafactoryressources",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5f4bc0ca-1608-4fc4-9d80-1111ef004feb",
+		"tenantId": "e5d15069-41a2-48be-a3f3-d7f52db16425"
+	}
+}
